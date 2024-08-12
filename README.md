@@ -9,3 +9,5 @@ BUBBLESORT= https://github.com/Sanju1502/DAA-2203a51502/blob/main/BUBBLESORT%20A
 Mergesort= https://github.com/Sanju1502/DAA-2203a51502/blob/main/Merge%20sort.c
 
 WEEK-2-1= https://github.com/Sanju1502/DAA-2203a51502/blob/main/WEEK-2-1(DAA)%20.c
+
+binaraysearch= https://github.com/Sanju1502/DAA-2203a51502/blob/main/binaray%20search%20ASS(DAA).c
