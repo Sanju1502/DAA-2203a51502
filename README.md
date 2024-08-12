@@ -13,3 +13,5 @@ WEEK-2-1= https://github.com/Sanju1502/DAA-2203a51502/blob/main/WEEK-2-1(DAA)%20
 binaraysearch= https://github.com/Sanju1502/DAA-2203a51502/blob/main/binaray%20search%20ASS(DAA).c
 
 selectionSort= https://github.com/Sanju1502/DAA-2203a51502/blob/main/selectionSort%20AAS(DAA).c
+
+week-1-3= https://github.com/Sanju1502/DAA-2203a51502/blob/main/week-1-3(daa).c
