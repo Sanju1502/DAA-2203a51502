@@ -5,3 +5,5 @@
 1=DAA https://github.com/Sanju1502/DAA-2203a51502/blob/main/ASS-1(DAA).c
 
 BUBBLESORT= https://github.com/Sanju1502/DAA-2203a51502/blob/main/BUBBLESORT%20ASS%20(DAA).c
+
+Mergesort= https://github.com/Sanju1502/DAA-2203a51502/blob/main/Merge%20sort.c
